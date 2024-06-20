@@ -21,3 +21,8 @@
  * GitHub
    * <http://github.com> (signup, signin, etc.)
    * [GitHub desktop](https://desktop.github.com)
+
+## Group:
+[@NopeGuy](https://github.com/NopeGuy) \
+[@SenseiBott](https://github.com/SenseiBott) \
+[@Gnomo03](https://github.com/Gnomo03) 
